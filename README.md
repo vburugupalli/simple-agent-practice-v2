@@ -10,7 +10,6 @@ Checks inventory stock for an item (e.g., "laptop") based on a simulated user qu
 ## How to run
 \`\`\`bash
 uv venv
-
 uv run agent.py
 \`\`\`
 
